@@ -1,0 +1,5 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result
+TC_01,Verify if user can add items to cart successfully,1. Navigate to e-commerce website 2. Browse products and add items to cart 3. Proceed to checkout,User is able to add items to cart and proceed to checkout without any errors
+TC_02,Verify if user can enter shipping information,1. Navigate to e-commerce website 2. Add items to cart 3. Proceed to checkout 4. Enter shipping information,User is able to enter shipping information without any issues
+TC_03,Verify if user can enter payment information,1. Navigate to e-commerce website 2. Add items to cart 3. Proceed to checkout 4. Enter shipping information 5. Enter payment information,User is able to enter payment information without any errors
+TC_04,Verify if user can place order successfully,1. Navigate to e-commerce website 2. Add items to cart 3. Proceed to checkout 4. Enter shipping information 5. Enter payment information 6. Place order,User is able to successfully place order and receive confirmation.

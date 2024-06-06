@@ -1,0 +1,3 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result
+1,Verify app crashes during money transfer,1. Open the mobile banking app, 2. Navigate to the money transfer section, 3. Enter recipient's information and amount to transfer, 4. Click on the transfer button, 5. Verify if the app crashes,App should crash when attempting to transfer money
+2,Verify app does not crash during money transfer,1. Open the mobile banking app, 2. Navigate to the money transfer section, 3. Enter recipient's information and amount to transfer, 4. Click on the transfer button, 5. Verify if the app functions properly without crashing,App should not crash when attempting to transfer money
